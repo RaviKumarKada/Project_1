@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011637763862",
+    "project_id": "testlogin-abcf3",
+    "storage_bucket": "testlogin-abcf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011637763862:android:0befc8e7b236ceeb0e5a37",
+        "android_client_info": {
+          "package_name": "com.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXND4RMwJzSmu1lBm2kDCnTHmIocgXLs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
